@@ -1,0 +1,8 @@
+com\example\api\DocumentationApi.class
+com\example\dao\DocumentationDao.class
+com\example\models\Documentation.class
+com\example\controls\Controls.class
+com\example\jpa\EntityManagerSingleton.class
+com\example\api\CategoryApi.class
+com\example\dao\CategoryDao.class
+com\example\models\Category.class
